@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.but1 {
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+    background: #f25822;
+    cursor: pointer;
+    margin-top: 150px;
+}
+
+.but2 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 15px;
+    color: #aaa;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.but3 {
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+    background: #f25822;
+    cursor: pointer;
+    margin-top: -15px;
+}
+
+.main-text1 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 60px;
+    color: #000;
+    margin-top: 100px;
+}
+.main-text2 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 60px;
+    color: #000;
+    margin-top: -10px;
+}
+.main-text3 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 60px;
+    color: #000;
+    margin-top: -10px;
+}
+
+.paragraph1 {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 20px;
+    color: #888;
+    margin-top: 10px;
+}
+
+.paragraph2 {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 20px;
+    color: #888;
+    margin-top: -1px;
+}
+
+.main-logo {
+    margin-top: -480px;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+.link {
+    width: 687px;
+    height: 40px;
+    margin-left: 515px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: #000;
+}
+
+.main-img {
+    width: 510px;
+    height: 350px;
+    margin-left: 590px;
+    margin-top: -350px;
+}
+
+.many-logos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 490px;
+    cursor: default;
+}
+
+.circle {
+    margin-top: -180px;
+    margin-left: -30px;
+    width: 300px;
+}
+
